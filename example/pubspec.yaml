@@ -32,7 +32,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  quill_html_editor:
+  quill_html_editor_v2:
     path: ../
 
 dev_dependencies:
